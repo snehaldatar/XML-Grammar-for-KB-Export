@@ -22,16 +22,15 @@ Businesses often need to export knowledge content from eGain cloud for auditing,
 
 ### Topic XSD:
 |Name | Description | Type | Mandatory
-| id | Topic | Id |	String | Yes 
-| egainTopicPath |	eGain Topic Path will be path to eGain Topic with all parent topics. This will slways start with "\Topics".
-egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	| String | Yes |
-| exportedTopicLangDataList |	Language specific Topic Data. |	ExportedTopicLangData |	Yes
-| translate |	Field to convey whether this topic is translatable | Allowed values are :
-    0 - No translation
-    1 - Do translate	| int |	No
+|---------------|-------------|------|-------|
+|id |Topic |Id |String |Yes 
+|egainTopicPath |eGain Topic Path will be path to eGain Topic with all parent topics. This will slways start with "\Topics".
+egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes 
+|exportedTopicLangDataList |Language specific Topic Data. |ExportedTopicLangData |Yes
+|translate |Field to convey whether this topic is translatable |Allowed values are :    0 - No translation, 1 - Do translate |int |No
 
 ### ExportedTopicLangData
-| name |	Name of the topic |	String	| Yes 
+|name |	Name of the topic |	String	| Yes 
 | description	| Description of the topic | String |	No
 language	Language code. Please refer appendix for details.	String	Yes
 imageUrl	Image Url of the requested topic 	String	No
