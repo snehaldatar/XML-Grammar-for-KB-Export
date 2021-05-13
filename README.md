@@ -90,7 +90,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 |language | Language code. Please refer appendix for details. |String |Yes
 |versionDataList |Details of all the  versions of Article for this language. |VersionData |Yes
 
-### Version Data
+#### Version Data
 
 |Attribute | Description | Type| Mandatory
 |---------------|-------------|------|-------|
@@ -125,6 +125,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 
 
 4. Custom Attributes
+
 |Attribute | Description | Type|Mandatory
 |---------------|-------------|------|-------|
 |name |Name of custom Attribute |String |Yes
