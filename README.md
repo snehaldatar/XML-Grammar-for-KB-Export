@@ -12,11 +12,14 @@ Businesses often need to export knowledge content from eGain cloud for auditing,
 5. Attachments will be present under ExportedContent\<Department_Name>\FoldersAndArticles\internal_attachments and reference will be present in the article xml.
 6. Article to article linking is also supported through linkAlias and linkedAliases tags in Article XML.
 7. Currently Personalization or tagging of content is not supported.
-8. This Sample in sample folder includes XSDs and a zip file which has the xmls in required hierarchy.
 
-| XSDs | Topic.XSD |	Folder.xsd |Article.xsd
-| Sample zip | eGain_Exported_Content.zip
+## Sample Files
 
+This Sample in sample folder includes XSDs and a zip file which has the xmls in required hierarchy.
+
+ XSDs -  Topic.xsd, Folder.xsd,  Article.xsd
+ Sample zip with xmls - eGain_Exported_Content.zip
+ 
 
 # XML Grammar
 
