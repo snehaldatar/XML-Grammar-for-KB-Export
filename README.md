@@ -74,7 +74,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 |relatedArticles |List of articles related to this article. e.g. "\Content\Shared\Texting#fSlash#SMS-MMS\Agent Calling\Leaves:Paid leave"| String| No
 |linkAlias |UUID of article	|String |No
 
-1. Macro
+### Macro
 
 |Attribute | Description | Type| Mandatory
 |---------------|-------------|------|-------|
@@ -83,7 +83,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 |defaultArticle |Default article with the macro |String |No
 |defaultValue |Default value of macro |String |No
 
-2. Lang Data
+### Lang Data
 
 |Attribute | Description | Type| Mandatory
 |---------------|-------------|------|-------|
@@ -115,7 +115,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 |containsLinks |Boolean indicating whether content of version contains links to other eGain articles |boolean |Yes
 
 
-3. Note
+### Note
 
 |Attribute | Description | Type| Mandatory
 |---------------|-------------|------|-------|
@@ -124,7 +124,7 @@ egainTopicPath :      " \Topics\Policy\Leaves:Paid leave"	|String |Yes
 |createdDate | Creation date and time. |String |No
 
 
-4. Custom Attributes
+### Custom Attributes
 
 |Attribute | Description | Type|Mandatory
 |---------------|-------------|------|-------|
