@@ -23,7 +23,7 @@ This Sample in sample folder includes XSDs and a zip file which has the xmls in 
 
 # XML Grammar
 
-## Topic XSD:
+## Topic XSD
 |Name | Description | Type | Mandatory
 |-----|-------------|------|-------|
 |id |Topic |Id |String |Yes 
