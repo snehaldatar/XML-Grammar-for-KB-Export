@@ -44,7 +44,7 @@ This Sample in sample folder includes XSDs and a zip file which has the xmls in 
 ## Folder XSD
 |Attribute | Description | Type| Mandatory
 |---------------|-------------|------|-------|
-|id |Folder |ID |String |Yes
+|id |Folder ID |String |Yes
 |egainFolderPath |eGain Folder Path will be path to eGain Folder with all parent folders. egainFolderPath: "\Content\Shared\Texting#bSlash#SMS-MMS\Agent Calling" | String | Yes
 |exportedFolderLangDataList	|Language specific Folder Data |ExportedFolderLangData| Yes
 |translate |Specifies, whether, the articles in this folder to be considered for translation when the content is exported for translation. Allowed values are :  0 - No translation, 1 - Do translate| int| No
