@@ -18,6 +18,7 @@ Businesses often need to export knowledge content from eGain cloud for auditing,
 This Sample in sample folder includes XSDs and a zip file which has the xmls in required hierarchy.
 
  XSDs -  Topic.xsd, Folder.xsd,  Article.xsd
+ 
  Sample zip with xmls - eGain_Exported_Content.zip
  
 
