@@ -27,7 +27,7 @@ This Sample in sample folder includes XSDs and a zip file which has the xmls in 
 ## Topic XSD
 |Name | Description | Type | Mandatory
 |-----|-------------|------|-------|
-|id |Topic |Id |String |Yes 
+|id |Topic Id |String |Yes 
 |egainTopicPath |eGain Topic Path will be path to eGain Topic with all parent topics. This will slways start with "\Topics". egainTopicPath : " \Topics\Policy\Leaves:Paid leave"	|String |Yes 
 |exportedTopicLangDataList |Language specific Topic Data. |ExportedTopicLangData |Yes
 |translate |Field to convey whether this topic is translatable |Allowed values are :    0 - No translation, 1 - Do translate |int |No
